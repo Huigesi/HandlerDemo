@@ -14,6 +14,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.os.Build;
 
+
+
 public class MainActivity extends ActionBarActivity {
 	private TextView tv1;
 	private Handler handler=new Handler();
